@@ -13,7 +13,7 @@ public class ProyectoPrueba {
     
     public static void main(String[] args) {
         // TODO code application logic here
-        for (int i = 0; i < 5; i++) {
+        for (int i = 0; i < 6; i++) {
             System.out.println("El numreo es: "+i);
             
         }
